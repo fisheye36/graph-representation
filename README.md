@@ -5,6 +5,7 @@ Use virtualenv:
 python3 -m venv .graphs // or other directory name
 . .graphs/bin/activate
 python pip install -r requirements.txt // updating pip if necessary
+~~~
 
 # Execution
 
