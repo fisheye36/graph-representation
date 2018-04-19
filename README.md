@@ -13,5 +13,4 @@ And then use command line tools, starting with:
 ~~~
 python graph.py help
 ~~~
-
-Try out :)
+This repository comes with a few example files so you can either try them out or generate graph file yourself.
