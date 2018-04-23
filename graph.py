@@ -1,5 +1,5 @@
 from parser import AdjacencyListParser, AdjacencyMatrixParser, IncidenceMatrixParser
-#import plot as gp
+import plot as gp
 
 import random as rd
 import sys
