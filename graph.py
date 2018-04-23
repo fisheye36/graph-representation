@@ -25,8 +25,8 @@ class Graph:
 
     def display(self, file_name):
         pass
-#        self._read(file_name)
-#        gp.make_plot(self._graph_data)
+        self._read(file_name)
+        gp.make_plot(self._graph_data)
 
     def generate(self, file_name, nodes_num, edges_or_probability):
         suffix = edges_or_probability[-1]
